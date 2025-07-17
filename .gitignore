@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+requirements
+
+# Production build in server
+server/static/
